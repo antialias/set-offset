@@ -2,7 +2,7 @@
   "name": "set-offset",
   "version": "1.0.1",
   "description": "extraction of jQuery.offset.setOffset into an npm package",
-  "main": "index.js",
+  "main": "set-offset.js",
   "scripts": {
     "test": "karma start"
   },
